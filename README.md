@@ -1,7 +1,3 @@
-# Methodology
-<img src="https://raw.githubusercontent.com/Tush1810/BloodBank/master/Data Augmentation Techniques Methodology.png" alt="Splash Screen" width="500" height="300" /> 
-
-
 # Lab Management System
 
 
